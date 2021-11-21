@@ -1,0 +1,51 @@
+{
+  "produtos": [
+    {
+      "imageUrl": "https://studiosol-a.akamaihd.net/tb/cifra-blog/pt/wp-content/uploads/2018/05/Untitled34.jpg",
+      "productName": "Guitarra",
+      "cost": "1.500",
+      "description": "Guitarra",
+      "provider": "Amazon",
+      "group": "Massas",
+      "id": 1
+    },
+    {
+      "imageUrl": "https://static.mundomax.com.br/produtos/30767/550/1.webp",
+      "productName": "guitarra completa",
+      "cost": "2.000",
+      "description": "Kit Completo",
+      "provider": "Amazon",
+      "group": "Cereais",
+      "id": 2
+    }
+  ],
+  "empresas": [
+    {
+      "reason": "Teste",
+      "fantasyName": "Teste2",
+      "cnpj": "125155585000154",
+      "email": "teste@gmail.com",
+      "cep": "88047-604",
+      "address": "Travessa Ressacada",
+      "number": "49",
+      "neighborhood": "Carianos",
+      "city": "Florianópolis",
+      "complement": "Fundos",
+      "latitude": "20",
+      "longitude": "20",
+      "id": 1
+    }
+  ],
+  "fornecedores": [
+    "Del valle",
+    "Amazon",
+    "Dell"
+  ],
+  "grupos": [
+    "Carnes",
+    "Ovos",
+    "Higiene",
+    "Cereais",
+    "Massas"
+  ]
+}
